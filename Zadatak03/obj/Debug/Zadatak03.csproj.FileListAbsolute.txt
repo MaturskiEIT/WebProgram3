@@ -1,0 +1,10 @@
+c:\users\administrator\documents\visual studio 2010\Projects\Zadatak03\Zadatak03\bin\Zadatak03.dll
+c:\users\administrator\documents\visual studio 2010\Projects\Zadatak03\Zadatak03\bin\Zadatak03.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\Zadatak03\Zadatak03\obj\Debug\ResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2010\Projects\Zadatak03\Zadatak03\obj\Debug\Zadatak03.dll
+c:\users\administrator\documents\visual studio 2010\Projects\Zadatak03\Zadatak03\obj\Debug\Zadatak03.pdb
+C:\Users\Filip\Desktop\Zadaci za maturu\Zadatak03\Zadatak03\bin\Zadatak03.dll
+C:\Users\Filip\Desktop\Zadaci za maturu\Zadatak03\Zadatak03\bin\Zadatak03.pdb
+C:\Users\Filip\Desktop\Zadaci za maturu\Zadatak03\Zadatak03\obj\Debug\Zadatak03.dll
+C:\Users\Filip\Desktop\Zadaci za maturu\Zadatak03\Zadatak03\obj\Debug\Zadatak03.pdb
+C:\Users\Filip\Desktop\Zadaci za maturu\Zadatak03\Zadatak03\obj\Debug\Zadatak03.csprojResolveAssemblyReference.cache

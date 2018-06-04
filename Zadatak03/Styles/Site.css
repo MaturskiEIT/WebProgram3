@@ -1,0 +1,16 @@
+﻿#prognoza
+{
+    width: 600px;
+    height: 500px;
+}
+.naslov
+{
+    font-size: x-large;
+    color: #FF0000;
+    font-weight: bold;
+    text-align: center;
+}
+.desno
+{
+    text-align: right;
+}

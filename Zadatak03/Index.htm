@@ -1,0 +1,49 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <link href="Styles/Site.css" rel="stylesheet" type="text/css" />
+    <style type="text/css">
+        .style1
+        {
+            width: 100%;
+        }
+    </style>
+    <script src="Scripts/jquery-1.4.1.js" type="text/javascript"></script>
+    <script src="functions.js" type="text/javascript"></script>
+</head>
+<body>
+
+    <table class="style1">
+        <tr>
+            <td class="naslov">
+                VREMENSKA PROGNOZA</td>
+        </tr>
+        <tr class="desno">
+            <td>
+                <a href="Autor.htm">Autor</a><a href="Uputstvo.htm">Uputstvo</a></td>
+        </tr>
+    </table>
+
+    <form>
+         <label> Izbor grada: </label>
+         <select id="selectGradovi">
+         <option value="valjevo">valjevo</option>
+         <option value="cacak">cacak</option>
+         <option value="beograd">beograd</option>
+         <option value="dimitrovgrad">dimitrovgrad</option>
+         <option value="knjazevac">knjazevac</option>
+         <option value="kosovska-mitrovica">kosovska-mitrovica</option>
+         <option value="kraljevo">kraljevo</option>
+         <option value="kursumlija">kursumlija</option>
+         <option value="leskovac">leskovac</option>
+         <option value="majdanpek">majdanpek</option>
+         </select>
+    </form>
+    <button id="prikaz">Prikazi</button>
+
+    <br />
+    <iframe id="prognoza" src="http://www.naslovi.net/vremenska-prognoza/"></iframe>
+    <br />
+</body>
+</html>
